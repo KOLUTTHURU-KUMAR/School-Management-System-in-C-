@@ -1,0 +1,14 @@
+C:\Users\KUMAR\source\repos\College Management System\bin\Debug\College Management System.exe.config
+C:\Users\KUMAR\source\repos\College Management System\bin\Debug\College Management System.exe
+C:\Users\KUMAR\source\repos\College Management System\bin\Debug\College Management System.pdb
+C:\Users\KUMAR\source\repos\College Management System\obj\Debug\College Management System.csproj.AssemblyReference.cache
+C:\Users\KUMAR\source\repos\College Management System\obj\Debug\College Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\KUMAR\source\repos\College Management System\obj\Debug\College_Management_System.Login.resources
+C:\Users\KUMAR\source\repos\College Management System\obj\Debug\College_Management_System.Properties.Resources.resources
+C:\Users\KUMAR\source\repos\College Management System\obj\Debug\College Management System.csproj.GenerateResource.cache
+C:\Users\KUMAR\source\repos\College Management System\obj\Debug\College Management System.csproj.CoreCompileInputs.cache
+C:\Users\KUMAR\source\repos\College Management System\obj\Debug\College Management System.exe
+C:\Users\KUMAR\source\repos\College Management System\obj\Debug\College Management System.pdb
+C:\Users\KUMAR\source\repos\College Management System\obj\Debug\College_Management_System.Students.resources
+C:\Users\KUMAR\source\repos\College Management System\obj\Debug\College_Management_System.Departments.resources
+C:\Users\KUMAR\source\repos\College Management System\obj\Debug\College_Management_System.Register.resources
